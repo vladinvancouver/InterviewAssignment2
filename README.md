@@ -1,4 +1,4 @@
-# Interview Assignment 2
+# Data Engineer interview assignment
 
 Welcome. We have received three data files from different data sources that we need to amalgamate into a single data store. More files will follow from the same sources, so we should create a program that will process these files and update our data store.
 
